@@ -14,3 +14,9 @@
 7. Marcamos las opciones como defecto and install:
 
 ![image](https://user-images.githubusercontent.com/70413460/178376985-fb82f623-1ecd-486f-90c3-f6ed39fe2bd4.png)
+8. Finally next:
+
+![image](https://user-images.githubusercontent.com/70413460/178377692-cb9b0cb8-4ff7-4963-9ef9-42782cb0e61b.png)
+9. Clic Finish:
+
+![image](https://user-images.githubusercontent.com/70413460/178377727-efb95f74-318b-41ca-acce-b161a48a012e.png)
